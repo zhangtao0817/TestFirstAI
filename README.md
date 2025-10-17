@@ -38,4 +38,4 @@
 - 像素完美渲染
 
 享受这款复古风格的坦克大战游戏吧！
-Happy Ending!
+Happy Ending!Have a good time!
